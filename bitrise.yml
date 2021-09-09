@@ -116,4 +116,4 @@ app:
     BITRISE_EXPORT_METHOD: development
 meta:
   bitrise.io:
-    machine_type_id: elite
+    machine_type_id: g2.4core
